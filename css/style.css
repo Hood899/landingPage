@@ -297,9 +297,10 @@ footer {
     
   }
   
-  nav ul a {
+  nav ul li a {
     border: 3px solid white ;
     text-transform: uppercase ;
+    color: 3b29e6;
   }
 
   nav ul li {
