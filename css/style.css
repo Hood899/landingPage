@@ -294,7 +294,12 @@ footer {
   nav ul {
     flex-direction: column;
     align-items: center;
+    
+  }
+  
+  nav ul a {
     border: 3px solid white ;
+    text-transform: uppercase ;
   }
 
   nav ul li {
